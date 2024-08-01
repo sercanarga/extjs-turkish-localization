@@ -8,7 +8,7 @@ Ext.define("Ext.locale.tr.grid.plugin.filterbar.Operator", {
         ge: "Eşit veya daha büyük",
         lt: "Daha az",
         le: "Daha az veya eşit",
-        like: "Beğenmek",
+        like: "Beğen",
         nlike: "Gibi değil",
         empty: "Boş",
         nempty: "Boş değil",
